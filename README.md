@@ -1,7 +1,9 @@
 # pyanalytics 
 ## Python for Data Analytics x Stackpython
 
-In classes folder, you will find all accompany materials to join Stackpython's Python for Data Analystics course.
+This is the offical github repository for Python for Data Analytics course teached by Natanop P. for Stackpython, all future changes will be committed here. 
+
+In classes folder, you will find all accompany materials to join all 12 sessions - they are stored in a separate path.  
 We have provided blank noteboooks to follow the codeslong session. In case of missing anything, please feel free to align with answer notebook.
 
 There are two ways to get this repository on your local machine:
